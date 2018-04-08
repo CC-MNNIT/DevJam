@@ -1,7 +1,8 @@
 # DevJam
 List of projects made during DevJam 1.0
 
-## Project - 1
+## Project - 1 
+(Follow this Sample Project pattern while adding projects) 
 
 **Team Name** - Rashqe-Qamar
 
