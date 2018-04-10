@@ -8,13 +8,14 @@ List of projects made during DevJam 1.0
 ## Project - (x+1) [x is the project no of last project submitted]
 (Follow this Sample Project pattern while adding projects) 
 
-**Team Name** - Rashqe-Qamar
+**Team Name** - "Your Team Name"
 
-**Project Name** - Jarvis Bot
+**Project Name** - "Your Project Name"
 
-**Project Description** - Intelligent Bot lets you perform utility and fun stuff like games, Built with Python and ZulipChat-Api, Jarvis-Bot is the most feature-rich unofficial ZulipChat Bot that is 100% free.
+**Project Description** - "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris."
 
-**Github URL** - https://github.com/Abhey/JarvisBot
+**Github URL** - "Url to github repository"
+<hr>
 
 ## Project - 1
 
@@ -25,6 +26,7 @@ List of projects made during DevJam 1.0
 **Project Description** - An IoT project helps to automate home so that you can control your appliance with your iPhone with the help of iOS app based on Unity having augmented reality and also with your voice (made with XCode). You also can perform various tasks such as add timer for toggling appliances, setup your schedule so that AC can synchronize with your activities and much more.
 
 **Github URL** - https://github.com/iosdev747/IoT-Home-Automation
+<hr>
 
 ## Project - 2
 
@@ -35,6 +37,7 @@ List of projects made during DevJam 1.0
 **Project Description** - This is a Chatting Application made on java netbeans platform which support one to one and group chatting.
 
 **Github URL** -  https://github.com/vivekrathi53/Group_Chat_Application
+<hr>
 
 ## Project - 3
 
@@ -55,6 +58,7 @@ Application is based on Android.
 API USED: Railway API
 
 **Github URL** -  https://github.com/shuklajivivek/Rail-App
+<hr>
 
 ## Project - 4
 
@@ -69,6 +73,7 @@ SOFTWARE: made shell files to make it linux users to install essential softwares
 
 
 **Github URL** -  https://github.com/suraj-goel/Devjam1.0_website
+<hr>
 
 ## Project - 5
 
@@ -79,3 +84,4 @@ SOFTWARE: made shell files to make it linux users to install essential softwares
 **Project Description** - EasyQ will offer a platform to people to sit where ever they are and not stand in tiresome lines/queues and wait for their turn to come in hospitals, dispensaries, canteens, banks, restaurants etc etc where all you need tokens to wait. EasyQ will help you issue a token online so you don't have to be physically present before you actually need to and will ease the life of both the customer and the person on the other side of the table as it will not only help the person standing in the line but also the dealer as there will be less chaos in the institution.
 
 **Github URL** - https://github.com/iamrajanjharj/EasyQ
+<hr>
