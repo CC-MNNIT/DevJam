@@ -4,10 +4,10 @@ List of projects made during DevJam 1.0
 ## Project - 1 
 (Follow this Sample Project pattern while adding projects) 
 
-**Team Name** - Rashqe-Qamar
+**Team Name** - Eniacs-Coders
 
-**Project Name** - Jarvis Bot
+**Project Name** - Chat-Application
 
-**Project Description** - Intelligent Bot lets you perform utility and fun stuff like games, Built with Python and ZulipChat-Api, Jarvis-Bot is the most feature-rich unofficial ZulipChat Bot that is 100% free.
+**Project Description** - Chatting Application made on java netbeans platform which support one to one and group chatting
 
-**Github URL** - https://github.com/Abhey/JarvisBot
+**Github URL** - https://github.com/vivekrathi53/Group_Chat_Application
