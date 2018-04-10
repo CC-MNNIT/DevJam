@@ -1,4 +1,6 @@
 # DevJam
+
+[![Join the chat at https://gitter.im/DevJamChatRoom/Lobby](https://badges.gitter.im/DevJamChatRoom/Lobby.svg)](https://gitter.im/DevJamChatRoom/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 List of projects made during DevJam 1.0
 
 ## Project - (x+1) [x is the project no of last project submitted]
