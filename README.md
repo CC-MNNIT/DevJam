@@ -1,38 +1,41 @@
-# DevJam
+Team name: DreamHack
 
-*Don't know how to add your project? Join DevJam Chat room and ask your doubts.*<br>
-[![Join the chat at https://gitter.im/DevJamChatRoom/Lobby](https://badges.gitter.im/DevJamChatRoom/Lobby.svg)](https://gitter.im/DevJamChatRoom/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-<br>
-List of projects made during DevJam 1.0
+Project Description:
 
-## Project - (x+1) [x is the project no of last project submitted]
-(Follow this Sample Project pattern while adding projects) 
+flappy(No rotation).py: Modified version of flappy bird. Some features are removed to make game more easy like rotation and acceleration.
 
-**Team Name** - Rashqe-Qamar
+flappy(with rotation).py: Original version of game.
 
-**Project Name** - Jarvis Bot
+"Music is removed" : to add it again : assets -> audio -> (Copy files from "Original audio to audio folder"
 
-**Project Description** - Intelligent Bot lets you perform utility and fun stuff like games, Built with Python and ZulipChat-Api, Jarvis-Bot is the most feature-rich unofficial ZulipChat Bot that is 100% free.
+Bot.py: main algorithm of machine learning is applied here. Name of algorithm is "qLearn"
 
-**Github URL** - https://github.com/Abhey/JarvisBot
+Q Learn:
+	
+	Q(s,a) = (1-lr)Q(s,a) + lr(r + discount*max(Q(s+1,a)))
 
-## Project - 1
+Q(s,a) : is a function of state and action.
 
-**Team Name** - iOSDev
+s : is the state of game which is unique for ecah and every state of game. It is used to identify the game position. In this game state is defined as a combied string made of horizontal seperation between bird and nearest pipe + vertical seperation between bird and nearest pipe + velocity of bird. ("difX_difY_vel)
 
-**Project Name** - IoT-Home-Automation
+a : is action performed in that given state.Here we have only two action to perform: to jump or not to jump.
 
-**Project Description** - An IoT project helps to automate home so that you can control your appliance with your iPhone with the help of iOS app based on Unity having augmented reality and also with your voice (made with XCode). You also can perform various tasks such as add timer for toggling appliances, setup your schedule so that AC can synchronize with your activities and much more.
+lr : is learning rate  (0 <= lr <= 1)
 
-**Github URL** - https://github.com/iosdev747/IoT-Home-Automation
+r : is reward. We sat positive reward for action correctly performed and negative reward for undesired action in given state. 
 
-## Project - 2
+discount : it encourages to think about future reward. like if in given state we provide '0' reward, then to make sure that algo is going in right direction we add this. (0 <= discount <= 1)
 
-**Team Name** - Eniacs-Coders
+This algo try to maximize reward for given state. So if next time game reaches a known state, it will select that action with maximum reward.
 
-**Project Name** - Chat Application
+To know more about this go here. [https://en.wikipedia.org/wiki/Q-learning]
 
-**Project Description** - This is a Chatting Application made on java netbeans platform which support one to one and group chatting.
+To download this original game :
+git clone https://github.com/sourabhv/FlappyBirdClone.git
 
-**Github URL** -  https://github.com/vivekrathi53/Group_Chat_Application
 
+Requirements-
+pygame 1.91
+Github URL : www.github.com/KashyapNasit
+In case of trouble accessing the project use google drive link :
+https://drive.google.com/drive/folders/1Tvt5p6G-QSQNfCM6nf9OufwJA_BPnhsc
