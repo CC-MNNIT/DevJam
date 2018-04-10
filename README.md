@@ -1,7 +1,7 @@
 # DevJam
 List of projects made during DevJam 1.0
 
-## Project - 1 
+## Project - project no 
 (Follow this Sample Project pattern while adding projects) 
 
 **Team Name** - Rashqe-Qamar
@@ -12,7 +12,7 @@ List of projects made during DevJam 1.0
 
 **Github URL** - https://github.com/Abhey/JarvisBot
 
-## Project - 2
+## Project - 1
 
 **Team Name** - iOSDev
 
