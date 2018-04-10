@@ -84,4 +84,13 @@ SOFTWARE: made shell files to make it linux users to install essential softwares
 **Project Description** - EasyQ will offer a platform to people to sit where ever they are and not stand in tiresome lines/queues and wait for their turn to come in hospitals, dispensaries, canteens, banks, restaurants etc etc where all you need tokens to wait. EasyQ will help you issue a token online so you don't have to be physically present before you actually need to and will ease the life of both the customer and the person on the other side of the table as it will not only help the person standing in the line but also the dealer as there will be less chaos in the institution.
 
 **Github URL** - https://github.com/iamrajanjharj/EasyQ
+## Project - 6
+
+**Team Name** - DevEngers
+
+**Project Name** - BunkManager
+
+**Project Description** - This is an online voting app for class bunk. On basis of vote poll notification will be sent to users for bunk.It also has anonymous group chatroom and an attendance tracker.Peas!
+
+**Github URL** - https://github.com/svjkaas/BunkManager
 <hr>
