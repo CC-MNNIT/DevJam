@@ -36,3 +36,22 @@ List of projects made during DevJam 1.0
 
 **Github URL** -  https://github.com/vivekrathi53/Group_Chat_Application
 
+## Project - 3
+
+**Team Name** - Brogrammers
+
+**Project Name** - RailApp
+
+**Project Description** - This android application has following features.
+
+A penalty calculator which helps the passenger to know how much he exactly needs to pay as a fine.
+
+A live train status facility to help the passenger to spot the train.
+
+And remaining features like seat availability ,PNR Status, Train Info,Train between stations.
+
+Application is based on Android.
+
+API USED: Railway API
+
+**Github URL** -  https://github.com/shuklajivivek/Rail-App
