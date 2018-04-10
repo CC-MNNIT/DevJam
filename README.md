@@ -1,4 +1,6 @@
-FlappyBird BOT (ML - qLearn)
+Team name: DreamHack
+
+Project Description:
 
 flappy(No rotation).py: Modified version of flappy bird. Some features are removed to make game more easy like rotation and acceleration.
 
@@ -32,5 +34,8 @@ To download this original game :
 git clone https://github.com/sourabhv/FlappyBirdClone.git
 
 
-Requironment :
+Requirements-
 pygame 1.91
+Github URL : www.github.com/KashyapNasit
+In case of trouble accessing the project use google drive link :
+https://drive.google.com/drive/folders/1Tvt5p6G-QSQNfCM6nf9OufwJA_BPnhsc
