@@ -130,4 +130,5 @@ This game is made using pygame library of python.
 to be able to check their attendence percntege by logging in.
 
 **Github URL** - https://github.com/rht6226/Project-1.git
+
 <hr>
