@@ -120,7 +120,24 @@ This game is made using pygame library of python.
 **Github URL** - https://github.com/shakyaprashant/devjam_project
 <hr>
 
+
+
+
 ## Project - 9
+
+**Team Name** - DreamHack
+
+**Project Name** - Flappy Bird Q-learning
+
+**Project Description** - This a a game bot made for FlappyBird. It learns to play this game by itself by a algo called Q-learning.
+
+**Github URL** - https://github.com/KashyapNasit/Flappy-Bird-Reforcement-Learning
+<hr>
+
+
+
+
+## Project - 10
 
 **Team Name** - Legion
 
@@ -130,5 +147,4 @@ This game is made using pygame library of python.
 to be able to check their attendence percntege by logging in.
 
 **Github URL** - https://github.com/rht6226/Project-1.git
-
 <hr>
