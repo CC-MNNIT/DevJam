@@ -119,3 +119,15 @@ This game is made using pygame library of python.
 
 **Github URL** - https://github.com/shakyaprashant/devjam_project
 <hr>
+
+## Project - 9
+
+**Team Name** - Legion
+
+**Project Name** - MNNIT Attendence Management System
+
+**Project Description** - This is a website that is dedicated to the professors and the students of our college. It allows the professors to Log in and take attendance of students directly via their Laptops or Mobile devices. It also allows the students 
+to be able to check their attendence percntege by logging in.
+
+**Github URL** - https://github.com/rht6226/Project-1.git
+<hr>
