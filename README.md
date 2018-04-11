@@ -96,3 +96,15 @@ SOFTWARE: made shell files to make it linux users to install essential softwares
 
 **Github URL** - https://github.com/svjkaas/BunkManager
 <hr>
+
+## Project - 7
+
+**Team Name** - Codias
+
+**Project Name** - Dodge
+
+**Project Descripion** - This is a game in which the player has to dodge the hurdles and collect stars to make the high score!
+This game is made using pygame library of python.
+
+**Github URL** - https://github.com/kks05/Dodge
+<hr>
