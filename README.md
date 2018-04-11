@@ -108,3 +108,14 @@ This game is made using pygame library of python.
 
 **Github URL** - https://github.com/kks05/Dodge
 <hr>
+
+## Project - 8
+
+**Team Name** - Trojan Horses
+
+**Project Name** - Travel Companion app
+
+**Project Description** - This is a web app which can be used to find travel companions when going by train or to find people going to watch same movie. This website runs on python server.
+
+**Github URL** - https://github.com/shakyaprashant/devjam_project
+<hr>
