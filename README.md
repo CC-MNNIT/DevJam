@@ -162,3 +162,14 @@ to be able to check their attendence percntege by logging in.
 **Github URL** - https://github.com/VivudhSH/DevJam1.0
 <hr>
 
+## Project - 11
+
+**Team Name** - EXCEPTION HANDLING
+
+**Project Name** - HOSTEL MANAGEMENT
+
+**Project Description** - We have created a software system that will allow the users to manage a hostel and do stuff like file/manage complains, room allotment and post/view notices.
+
+**Github URL** - https://github.com/amalkumar308/Hostel_management
+<hr>
+
