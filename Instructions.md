@@ -1,9 +1,9 @@
-This repository contains the list of the projects that were made during DevJam 1.0.
+This repository contains the list of the projects that were made during DevJam
 
 If you want to add your projects to this repository then follow these instructions:
 
 * Fork this repository.
-* Add following deatils about your project in README.md file -
+* Add following deatils about your project in DevJam-2019/README.md file -
 
     <code>Team Name:</code>
     
