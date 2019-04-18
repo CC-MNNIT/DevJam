@@ -26,3 +26,18 @@ List of projects made during DevJam 2.0
 
 **Github URL** - "https://github.com/Pratiknarola/face_classifier"
 <hr>
+<hr>
+
+## Project - 2
+
+**Team Name** - NP Devs
+
+**Project Name** - "MNNIT Central"
+
+**Project Description** - This android project is developed for the welfare of students of MNNIT Allahabad. After registration in the app:
+<br>1.It provides facility of <B>getting a cab</B> (e-rickshaw) like popular cab apps which is seen by driver in different Driver app.
+<br>2.It provides for <B>skipping mess food</B> and get refund against it in our mess support section of the app. 
+<br>3.It provides information of all the events of the college and <B>provides notification</B> of all classes and events when added by the Admin.
+<br>4.It provides an <B>alarm</B> for college classes which is controlled by groups during registration in the app.
+<br><br>**Github URL** - "https://github.com/ashu12chi/MNNIT-Central"
+<hr>
