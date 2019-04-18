@@ -3,7 +3,6 @@
 List of projects made during DevJam 2.0
 
 ## Project - 1
-(Follow this Sample Project pattern while adding projects) 
 
 **Team Name** - fy_rocks
 
