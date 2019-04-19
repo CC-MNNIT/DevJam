@@ -24,7 +24,7 @@ List of projects made during DevJam 2.0
 -predict age, gender from any directory or any particular image.
 -can save predicted data in csv or json file format. [due to some modification csv code is under development and hence commented."
 
-**Github URL** - "https://github.com/Pratiknarola/face_classifier"
+**Github URL** - "https://github.com/Pratiknarola/face_classifer"
 <hr>
 
 ## Project - 2
