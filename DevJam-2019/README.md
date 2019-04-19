@@ -26,7 +26,6 @@ List of projects made during DevJam 2.0
 
 **Github URL** - "https://github.com/Pratiknarola/face_classifier"
 <hr>
-<hr>
 
 ## Project - 2
 
