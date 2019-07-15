@@ -25,4 +25,17 @@ List of projects made during DevJam 2.0
 -can save predicted data in csv or json file format. [due to some modification csv code is under development and hence commented."
 
 **Github URL** - "https://github.com/Pratiknarola/face_classifier"
+
+<hr>
+
+## Project - 2
+
+**Team Name** - ENIGMA
+
+**Project Name** - CC Club MNNIT Website
+
+**Project Description** - A one stop solution for tech/coding enthusiasts following CC Club, MNNIT Allahabad. Sign-up, choose categories which interests you and see related posts on top of your home page feed, comment on them to clear any doubts. Get E-mail notificitation about posts regarding scheduled events/classes. Get resources related to topics covered in class by accessing side navigation bar from your home page.
+
+**Github URL** - https://github.com/ankitsangwan1999/CC-CLUB-MNNIT-Website
+
 <hr>
