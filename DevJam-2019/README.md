@@ -34,7 +34,7 @@ List of projects made during DevJam 2.0
 
 **Project Name** - CC Club MNNIT Website
 
-**Project Description** - A one stop solution for tech/coding enthusiasts following CC Club, MNNIT Allahabad. Sign-up, choose categories which interests you and see related posts on top of your home page feed, comment on them to clear any doubts. Get E-mail notificitation about posts regarding scheduled events/classes. Get resources related to topics covered in class by accessing side navigation bar from your home page.
+**Project Description** - A one stop solution for tech/coding enthusiasts following CC Club, MNNIT Allahabad. Sign-up, choose categories which interests you and see related posts on top of your home page feed, comment on them to clear any doubts. Get E-mail notificitation about posts regarding scheduled events/classes. Get resources related to topics covered in class by accessing side navigation bar from your Home Page.
 
 **Github URL** - https://github.com/ankitsangwan1999/CC-CLUB-MNNIT-Website
 
