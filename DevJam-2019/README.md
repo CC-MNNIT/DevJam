@@ -10,7 +10,7 @@ List of projects made during DevJam 2.0
 
  **Project Description** - "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris."
 
- **Github URL** - "Url to github repository"
+ **Github URL** - Url to github repository
 
 <hr>
 
@@ -37,5 +37,20 @@ List of projects made during DevJam 2.0
 **Project Description** - A one stop solution for tech/coding enthusiasts following CC Club, MNNIT Allahabad. Sign-up, choose categories which interests you and see related posts on top of your home page feed, comment on them to clear any doubts. Get E-mail notificitation about posts regarding scheduled events/classes. Get resources related to topics covered in class by accessing side navigation bar from your Home Page.
 
 **Github URL** - https://github.com/ankitsangwan1999/CC-CLUB-MNNIT-Website
+
+<hr>
+
+## Project - 3
+
+**Team Name** - NP Devs
+
+**Project Name** - "MNNIT Central"
+
+**Project Description** - This android project is developed for the welfare of students of MNNIT Allahabad. After registration in the app:
+<br>1.It provides facility of <B>getting a cab</B> (e-rickshaw) like popular cab apps which is seen by driver in different Driver app.
+<br>2.It provides for <B>skipping mess food</B> and get refund against it in our mess support section of the app. 
+<br>3.It provides information of all the events of the college and <B>provides notification</B> of all classes and events when added by the Admin.
+<br>4.It provides an <B>alarm</B> for college classes which is controlled by groups during registration in the app.
+<br><br>**Github URL** - https://github.com/ashu12chi/MNNIT-Central
 
 <hr>
