@@ -24,10 +24,23 @@ List of projects made during DevJam 2.0
 -predict age, gender from any directory or any particular image.
 -can save predicted data in csv or json file format. [due to some modification csv code is under development and hence commented."
 
-**Github URL** - https://github.com/Pratiknarola/face_classifer
+**Github URL** - "https://github.com/Pratiknarola/face_classifier"
+
 <hr>
 
 ## Project - 2
+
+**Team Name** - ENIGMA
+
+**Project Name** - CC Club MNNIT Website
+
+**Project Description** - A one stop solution for tech/coding enthusiasts following CC Club, MNNIT Allahabad. Sign-up, choose categories which interests you and see related posts on top of your home page feed, comment on them to clear any doubts. Get E-mail notificitation about posts regarding scheduled events/classes. Get resources related to topics covered in class by accessing side navigation bar from your Home Page.
+
+**Github URL** - https://github.com/ankitsangwan1999/CC-CLUB-MNNIT-Website
+
+<hr>
+
+## Project - 3
 
 **Team Name** - NP Devs
 
@@ -39,4 +52,5 @@ List of projects made during DevJam 2.0
 <br>3.It provides information of all the events of the college and <B>provides notification</B> of all classes and events when added by the Admin.
 <br>4.It provides an <B>alarm</B> for college classes which is controlled by groups during registration in the app.
 <br><br>**Github URL** - https://github.com/ashu12chi/MNNIT-Central
+
 <hr>
