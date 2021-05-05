@@ -54,3 +54,14 @@ List of projects made during DevJam 2.0
 <br><br>**Github URL** - https://github.com/ashu12chi/MNNIT-Central
 
 <hr>
+
+
+## Project - 3
+
+**Team Name** - TeachMeSenpai
+
+**Project Name** - "SnoozySnoozy"
+
+**Project Description** - Its an Alarm Clock which lets the user choose beforehand what type of questions they want to answer and then when the alarm rings they have to answer the question before they can stop the Alarm. Can be used for students as a daily practice/awakening tool practising one question at a time side by side their daily activities. Also shows their history so they get to know what areas they need to improve upon and what results they got the previous time keeping track of their progress.
+<br><br>**Github URL** - https://github.com/CodenameGHOST007/SnoozySnoozy.git
+<hr>
